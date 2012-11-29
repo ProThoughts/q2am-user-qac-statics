@@ -1,5 +1,5 @@
-NEW MEMBERS WIDGET
-==================
+USER QAC STATICS
+================
 
 This simple plugin will add statics of quesitons, answers and comment on the user meta section of the question section on the view question page.
 
