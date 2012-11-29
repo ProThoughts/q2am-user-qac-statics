@@ -2,8 +2,8 @@
 
 /*
 	Plugin Name: Q2AM User QAC Statics
-	Plugin URI: https://github.com/q2amarket/q2am-next-previous-question
-	Plugin Update Check URI: 
+	Plugin URI: https://github.com/q2amarket/q2am-user-qac-statics
+	Plugin Update Check URI: https://github.com/q2amarket/q2am-user-qac-statics/blob/master/qa-plugin.php 
 	Plugin Description: Display user statics for questions, answers and comment.
 	Plugin Version: 1.0
 	Plugin Date: 2012-11-29
