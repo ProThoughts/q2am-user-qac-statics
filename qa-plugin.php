@@ -3,7 +3,7 @@
 /*
 	Plugin Name: Q2AM User QAC Statics
 	Plugin URI: https://github.com/q2amarket/q2am-user-qac-statics
-	Plugin Update Check URI: https://github.com/q2amarket/q2am-user-qac-statics/blob/master/qa-plugin.php 
+	Plugin Update Check URI: https://github.com/q2amarket/q2am-user-qac-statics/raw/master/qa-plugin.php  
 	Plugin Description: Display user statics for questions, answers and comment.
 	Plugin Version: 1.0
 	Plugin Date: 2012-11-29
@@ -16,4 +16,4 @@
 
 if (!defined('QA_VERSION')){header('Location: ../../'); exit;}
 
-qa_register_plugin_layer('qa-user-qac-statics.php', 'User Pie Chart');
+qa_register_plugin_layer('qa-user-qac-statics.php', 'Q2AM User QAC Static');
